@@ -1,0 +1,15 @@
+[color]
+        ui = auto
+        status = auto
+        diff = auto
+        branch = auto
+        interactive = auto
+        grep = auto
+[alias]
+        st = status
+        tree = log --graph --all --decorate --oneline
+        lp = log -p
+        names = log --name-status
+        co = checkout
+        br = branch
+        df = diff
